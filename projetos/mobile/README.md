@@ -13,10 +13,20 @@
 > npm install @react-navigation/stack
 > npm install @react-navigation/bottom-tabs
 
+> npm install axios
+
+> expo install @react-native-community/async-storage
+
 
 #### Criando projeto 
 > expo init my-project
 
 #### Iniciando o expo
 > npm start
+
+#### Tarefas pós NLW
+
+https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
+
+
 
